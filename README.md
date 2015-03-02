@@ -5,7 +5,7 @@
 * [ember.js](http://emberjs.com/)
 * [ember-cli](http://www.ember-cli.com/)
 * [parse-api](https://parse.api.com/)
-* [generators] ('ember help generate')
+* generators --> 'ember help generate'
 
 ### Running Tests
 * `ember test`
